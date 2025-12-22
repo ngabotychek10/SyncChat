@@ -12,7 +12,7 @@
         "changelog": "test",
         "targetAbi": "10.9.0.0",
         "sourceUrl": "https://github.com/ngabotychek10/SyncChat/releases/download/squidward/Jellyfin.Plugin.SyncChat.zip",
-        "checksum": "sha256:2a0a8e734400794146830b765a782a68f37a9d7efd35aba75eadca46cfe67876",
+        "checksum": "490edd30ae2923f9fd2d1c451db6c5e2",
         "timestamp": "2025-12-21T00:00:00Z"
       }
     ]
