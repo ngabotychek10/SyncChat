@@ -8,11 +8,11 @@
     "category": "test",
     "versions": [
       {
-        "version": "1.0.0.3",
+        "version": "1.0.0.4",
         "changelog": "test",
         "targetAbi": "10.9.0.0",
         "sourceUrl": "https://github.com/ngabotychek10/SyncChat/releases/download/squidward/Jellyfin.Plugin.SyncChat.zip",
-        "checksum": "6b0270de6172dde882a758bf493298f1",
+        "checksum": "5442c8a8fa00b7a213f3a6297660a652",
         "timestamp": "2025-12-21T00:00:00Z"
       }
     ]
